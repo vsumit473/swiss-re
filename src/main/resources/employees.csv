@@ -1,0 +1,9 @@
+Id,firstName,lastName,salary,managerId
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+306,Sumit,Verma,274000,305
+307,Foo,Verma,174000,306
+308,Intel,Verma,89000,307
+123,Joe,Doe,60000,
